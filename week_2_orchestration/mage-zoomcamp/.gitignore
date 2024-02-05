@@ -170,6 +170,6 @@ scratch*
 /mage_data*
 *secrets*.json
 magic-zoomcamp
-!/mage_data/magic-zoomcamp/pipelines/
+!mage_data/pipelines/
 *.json
 *.csv
