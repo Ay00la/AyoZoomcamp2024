@@ -1,0 +1,4 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "delightful_paper"}, "timestamp": 1707042294, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "timeless_knight"}, "timestamp": 1707047604, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "gcs_to_bigquery_copy"}, "timestamp": 1707087656, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "load_to_gcs_copy"}, "timestamp": 1707087676, "user": null}
